@@ -1,0 +1,137 @@
+.inicio{
+    width: 100%;
+    height: 100%;
+}
+
+.titulos{
+  width: 400%;
+    height: 200%;
+}
+.flotat{
+    float: unset;
+}
+
+.titleMusic{
+    font-size: 60px;
+    padding-top: 110px;
+}
+
+
+.parrafo{
+    font-size: 30px;
+    width: 40%;
+    margin-bottom: 50px;
+}
+
+.imagenMitad{
+    float: right;
+}
+
+.parrafo2{
+    color: black;
+}
+
+.link{
+    background: rgb(247, 97, 97);
+    border-radius: 30px;
+    text-decoration: none;
+    text-align: center;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-size: 25px;
+}
+
+.seccion2{
+    margin-top: 100px;
+    
+}
+
+.titulos2{
+    float: right;
+    width: 300px;
+    height: 300px;
+    margin-top: 50px;
+    font-size: 30px;
+}
+
+
+.music{
+    position: absolute;
+    top: 280px;
+    left: 700px;
+    color: #fff;
+    font-size: 150px;
+}
+
+.ultimo{
+    
+    top: 350%;
+    left: 900px;
+    width: 30%;
+}
+
+
+
+.titulos3{
+    color:black;
+}
+
+.tamanio{
+    font-size: 25px;
+    color: #fff;
+}
+
+.piePagina{
+    background-color: rgb(250, 53, 93);
+    padding-top: 30px;
+    margin-top: -5px;
+}
+
+.table{
+    color: #fff;
+    margin-left: 150px;
+    padding-top:  60px;
+    padding-bottom:  60px;
+}
+
+.espacio{
+    padding-left: 240px;
+    
+}
+
+.adress{
+    margin-top: 100px;
+    padding: -5%;
+    font-size: 12px;
+}
+
+.product{
+    margin-top: 100px;
+    
+    font-size: 12px;
+}
+
+.learn{
+    margin-top: 100px;
+    
+    font-size: 12px;
+}
+
+.pricing{
+    margin-top: 100px;
+    font-size: 12px;
+}
+
+.hr{
+    margin-top: 50px;
+}
+
+@media screen and (max-width:480px) {
+    body{
+        background-color: bisque;
+        
+    }
+}
